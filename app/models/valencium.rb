@@ -1,0 +1,2 @@
+class Valencium < ApplicationRecord
+end
