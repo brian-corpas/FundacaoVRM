@@ -1,0 +1,2 @@
+class RespostaSocial < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class RespostasSociaisController < ApplicationController
+end
